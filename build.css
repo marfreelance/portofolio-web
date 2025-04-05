@@ -378,12 +378,15 @@ section{
     .reasons-content .reasons-text h2, p{
         margin: 0 5rem;
     }
-    .reasons table, th, td{
+    .table, th, td{
         font-size: 1.5rem;
-        width: 90vw;
         padding: 1rem;
     }
-    .reasons table .phase{
+    .table{
+        align-items: center;
+        width: 90vw;
+    }
+    .table .phase{
         font-weight: bold;
         font-size: 4rem;
     }
