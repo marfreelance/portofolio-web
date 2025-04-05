@@ -378,8 +378,14 @@ section{
     .reasons-content .reasons-text h2, p{
         margin: 0 5rem;
     }
-    .reasons-content table{
-        width: 70vw;
+    .reasons table, th, td{
+        font-size: 1.5rem;
+        width: 90vw;
+        padding: 1rem;
     }
-
+    .reasons table .phase{
+        font-weight: bold;
+        font-size: 4rem;
+    }
+    
 }
