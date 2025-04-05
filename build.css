@@ -258,7 +258,7 @@ section{
 .reasons-content p{
     font-size: 2rem;
     font-weight: 300;
-    margin: 1.5rem 5rem;
+    margin: 1.5rem 1rem;
 }
 .reasons table{
     margin-top: 4rem;
@@ -376,7 +376,7 @@ section{
         gap: 5rem;
     }
     .reasons-content p{
-        margin: 1.5rem 0.5rem;
+        margin: 1.5rem 0rem;
     }
     .table, th, td{
         font-size: 1.5rem;
